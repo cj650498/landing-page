@@ -10,7 +10,8 @@ body {
     background-color: #1F2937;
 }
 
-.hero {
+.hero,
+.cta {
     padding: 16px 128px 0 128px;
 }
 
@@ -57,10 +58,9 @@ body {
 
 .hero-content {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 40px;
     padding-bottom: 96px;
-    
 }
 
 .hero-subtext {
@@ -76,6 +76,14 @@ body {
     padding: 8px 32px;
     border: none;
     border-radius: 8px;
+}
+
+.cta .sign-up-button {
+    border: 2px solid #F9FAF8;
+}
+
+.cta .button-wrapper {
+    flex-shrink: 0;
 }
 
 .info {
@@ -133,4 +141,42 @@ body {
     font-weight: 900;
     text-align: right;
     margin: 0;
+}
+
+.cta {
+    background: #F9FAF8;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.cta-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 48px 0;
+}
+
+.cta-title,
+.cta-subtext {
+    color: #F9FAF8;
+}
+
+.cta-title,
+.cta-subtext {
+    margin: 0;
+}
+
+.cta-wrapper {
+    min-width: 320px;
+}
+
+.footer {
+    text-align: center;
+    padding: 28px 0;
+    margin: 0;
+    color: #E5E7EB;
+    font-size: 16px;
 }
