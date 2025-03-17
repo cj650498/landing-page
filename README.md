@@ -1,6 +1,6 @@
 # Tip Tracker
 
-This HTML and CSS in this project is 100% my own work. I've intentionally been working through The Odin Project without help from any AI so I can "learn the hard way," if you will.
+The HTML and CSS in this project is 100% my own work. I've intentionally been working through The Odin Project without help from any AI so I can "learn the hard way," if you will.
 
 However, I did use AI to generate the images used on the website, as well as some of the generic text for Tip Tracker, just for fun.
 
