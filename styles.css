@@ -69,6 +69,7 @@ body {
 }
 
 .hero-image {
+    border: none;
     border-radius: 8px;
     width: 448px;
     height: 228px;
