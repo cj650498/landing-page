@@ -1,3 +1,11 @@
-For this project I'll be creating an entire web page from a design provided by The Odin Project.
+# Tip Tracker
 
-The design is provided in the form of 2 images: one is an image of the complete website, and one has some details about some of the fonts and colors that have been used previously.
+This project is 100% my own work. I've intentionally been working through The Odin Project without help from any AI so I can "learn the hard way," if you will.
+
+However, I did use AI to generate the images used on the website just for fun.
+
+## About
+Tip Tracker is a fake web application designed for anyone who makes tips at their jobs to track, manage and visualize their earnings.
+
+## Acknowledgments
+The Odin Project.
